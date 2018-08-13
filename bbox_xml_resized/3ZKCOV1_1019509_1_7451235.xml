@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>3ZKCOV1_1019509_1_7451235.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/3ZKCOV1_1019509_1_7451235.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>386.56</xmin>
+            <ymin>247.48558758323196</ymin>
+            <xmax>492.16</xmax>
+            <ymax>480.212860310272</ymax>
+        </bndbox>
+    </object>
+</annotation>

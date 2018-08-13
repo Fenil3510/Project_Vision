@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>hyundai_i10_dynamic_002.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/hyundai_i10_dynamic_002.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>42.32533333333333</xmin>
+            <ymin>167.76823176823177</ymin>
+            <xmax>227.66933333333333</xmax>
+            <ymax>372.3636363636364</ymax>
+        </bndbox>
+    </object>
+</annotation>

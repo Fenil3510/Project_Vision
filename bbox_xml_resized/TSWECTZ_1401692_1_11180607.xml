@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>TSWECTZ_1401692_1_11180607.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/TSWECTZ_1401692_1_11180607.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>137.64824120603012</xmin>
+            <ymin>279.8933333333333</ymin>
+            <xmax>396.2211055276382</xmax>
+            <ymax>465.3511111111111</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>PHOTO-2018-06-09-15-26-02 dt.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/PHOTO-2018-06-09-15-26-02 dt.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>34.77735849056606</xmin>
+            <ymin>278.33557046979865</ymin>
+            <xmax>414.43018867924525</xmax>
+            <ymax>510.28187919463085</ymax>
+        </bndbox>
+    </object>
+</annotation>

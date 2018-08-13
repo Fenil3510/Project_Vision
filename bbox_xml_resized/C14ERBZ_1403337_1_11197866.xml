@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>C14ERBZ_1403337_1_11197866.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/C14ERBZ_1403337_1_11197866.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>406.5125628141824</xmin>
+            <ymin>249.17333333324797</ymin>
+            <xmax>427.0954773870336</xmax>
+            <ymax>337.919999999744</ymax>
+        </bndbox>
+    </object>
+</annotation>

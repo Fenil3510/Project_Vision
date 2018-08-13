@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>usedcar_img_20170915_152751_copy_9761526546426_1526546588.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/usedcar_img_20170915_152751_copy_9761526546426_1526546588.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>226.13333333333335</xmin>
+            <ymin>208.59259259259255</ymin>
+            <xmax>462.2222222222223</xmax>
+            <ymax>390.63703703703703</ymax>
+        </bndbox>
+    </object>
+</annotation>

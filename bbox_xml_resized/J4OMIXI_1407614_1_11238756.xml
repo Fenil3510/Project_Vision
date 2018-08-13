@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>J4OMIXI_1407614_1_11238756.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/J4OMIXI_1407614_1_11238756.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>106.13065326633168</xmin>
+            <ymin>224.14222222222224</ymin>
+            <xmax>366.6331658291457</xmax>
+            <ymax>443.73333333333335</ymax>
+        </bndbox>
+    </object>
+</annotation>

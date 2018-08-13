@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>CLOUDTREAD_20180627_155648 dt.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/CLOUDTREAD_20180627_155648 dt.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>51.20000000000002</xmin>
+            <ymin>262.5269121813031</ymin>
+            <xmax>351.63773584905664</xmax>
+            <ymax>509.09915014164307</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>IQIQ1NP_1373818_1_10896678.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/IQIQ1NP_1373818_1_10896678.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>408.44221105527635</xmin>
+            <ymin>252.58666666666664</ymin>
+            <xmax>432.88442211055275</xmax>
+            <ymax>345.88444444444445</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>3D3SCCB_1335528_1_10495871.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/3D3SCCB_1335528_1_10495871.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>401.3668341709312</xmin>
+            <ymin>274.20444444416</ymin>
+            <xmax>434.8140703518208</xmax>
+            <ymax>375.46666666649605</ymax>
+        </bndbox>
+    </object>
+</annotation>

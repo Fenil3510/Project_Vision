@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>ODI169Z_1309551_1_10227472.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/ODI169Z_1309551_1_10227472.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>207.11557788944722</xmin>
+            <ymin>232.10666666666665</ymin>
+            <xmax>414.8743718592965</xmax>
+            <ymax>468.7644444444444</ymax>
+        </bndbox>
+    </object>
+</annotation>

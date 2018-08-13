@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>0C764449-C8F6-4A26-9325-54DE788D2A55 dt.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/0C764449-C8F6-4A26-9325-54DE788D2A55 dt.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>480.1207547169811</xmin>
+            <ymin>267.6771929824562</ymin>
+            <xmax>510.0679245283019</xmax>
+            <ymax>393.4315789473684</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>MNN62VA_1407614_1_11238757.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/MNN62VA_1407614_1_11238757.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>64.96482412060303</xmin>
+            <ymin>259.41333333333336</ymin>
+            <xmax>333.8291457286432</xmax>
+            <ymax>471.04</ymax>
+        </bndbox>
+    </object>
+</annotation>

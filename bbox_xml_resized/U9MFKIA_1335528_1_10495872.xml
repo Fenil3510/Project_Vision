@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>U9MFKIA_1335528_1_10495872.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/U9MFKIA_1335528_1_10495872.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>83.6180904522613</xmin>
+            <ymin>299.23555555555555</ymin>
+            <xmax>113.84924623115577</xmax>
+            <ymax>384.5688888888889</ymax>
+        </bndbox>
+    </object>
+</annotation>

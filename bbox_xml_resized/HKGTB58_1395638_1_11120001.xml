@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>HKGTB58_1395638_1_11120001.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/HKGTB58_1395638_1_11120001.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>192.321608040201</xmin>
+            <ymin>263.96444444444444</ymin>
+            <xmax>393.0050251256281</xmax>
+            <ymax>455.1111111111111</ymax>
+        </bndbox>
+    </object>
+</annotation>

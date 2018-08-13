@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>hyundai-i10-era-636625771117551832.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/hyundai-i10-era-636625771117551832.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>241.34680134680133</xmin>
+            <ymin>90.95409181636725</ymin>
+            <xmax>469.47699214365883</xmax>
+            <ymax>462.9461077844311</ymax>
+        </bndbox>
+    </object>
+</annotation>

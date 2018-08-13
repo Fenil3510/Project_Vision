@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>G6LED9Q_1373818_1_10896675.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/G6LED9Q_1373818_1_10896675.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>295.2361809045226</xmin>
+            <ymin>302.6488888888889</ymin>
+            <xmax>340.9045226130653</xmax>
+            <ymax>438.0444444444445</ymax>
+        </bndbox>
+    </object>
+</annotation>

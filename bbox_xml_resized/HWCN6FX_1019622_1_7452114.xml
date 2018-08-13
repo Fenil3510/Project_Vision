@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>HWCN6FX_1019622_1_7452114.jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/HWCN6FX_1019622_1_7452114.jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>467.84000000000003</xmin>
+            <ymin>279.27272727272725</ymin>
+            <xmax>511.36</xmax>
+            <ymax>418.9090909090909</ymax>
+        </bndbox>
+    </object>
+</annotation>

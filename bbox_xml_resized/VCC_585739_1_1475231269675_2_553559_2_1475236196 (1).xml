@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>VCC_585739_1_1475231269675_2_553559_2_1475236196 (1).jpg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/VCC_585739_1_1475231269675_2_553559_2_1475236196 (1).jpg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>46.93333333333334</xmin>
+            <ymin>294.8740740740741</ymin>
+            <xmax>428.0888888888889</xmax>
+            <ymax>494.9333333333333</ymax>
+        </bndbox>
+    </object>
+</annotation>

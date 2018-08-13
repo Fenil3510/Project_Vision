@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>MXBE2B8_1395638_1_11120003.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/MXBE2B8_1395638_1_11120003.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>103.55778894472361</xmin>
+            <ymin>201.38666666666668</ymin>
+            <xmax>296.52261306532665</xmax>
+            <ymax>430.08000000000004</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>N660GLC_1343226_1_10580116.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/N660GLC_1343226_1_10580116.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>228.34170854271355</xmin>
+            <ymin>248.03555555555556</ymin>
+            <xmax>405.22613065326635</xmax>
+            <ymax>459.6622222222222</ymax>
+        </bndbox>
+    </object>
+</annotation>

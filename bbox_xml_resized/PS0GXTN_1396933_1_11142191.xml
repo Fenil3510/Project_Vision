@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>PS0GXTN_1396933_1_11142191.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/PS0GXTN_1396933_1_11142191.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>91.52000000000001</xmin>
+            <ymin>242.94456762749445</ymin>
+            <xmax>278.4</xmax>
+            <ymax>435.9379157427938</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>bbox_xml_resized</folder>
+    <filename>JUNVRYP_1384313_1_11007826.jpeg.xml</filename>
+    <path>/Users/fenilsuchak/Desktop/Internship/For_yolo/bbox_xml_resized/JUNVRYP_1384313_1_11007826.jpeg.xml</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>48.88442211055278</xmin>
+            <ymin>238.93333333333334</ymin>
+            <xmax>275.9396984924623</xmax>
+            <ymax>482.41777777777776</ymax>
+        </bndbox>
+    </object>
+</annotation>
